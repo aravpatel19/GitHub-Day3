@@ -3,5 +3,7 @@ public class GitHubDay3{
 
 		System.out.println("Arav");
 
+		System.out.println("Arnav");
+
 	}
 }
