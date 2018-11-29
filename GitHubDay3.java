@@ -9,5 +9,7 @@ public class GitHubDay3{
 		System.out.println("asdfghjkl");
 		System.out.println("qwertyuiop");
 		System.out.println("hi");
+
+		System.out.println("Woot");
 	}
 }
