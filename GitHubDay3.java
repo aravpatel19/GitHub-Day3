@@ -5,5 +5,8 @@ public class GitHubDay3{
 
 		System.out.println("Arnav");
 
+		System.out.println("asdfghjkl");
+		System.out.println("qwertyuiop");
+
 	}
 }
